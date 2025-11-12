@@ -1,10 +1,8 @@
-package BinaryTree;
+
 
 import java.util.LinkedList;
 import java.util.Queue;
 import java.util.logging.Level;
-
-import BinaryTree.TreeNode;
 
 public class TraversalMethods 
 {
